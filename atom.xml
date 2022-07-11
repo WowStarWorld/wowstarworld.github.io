@@ -74,9 +74,9 @@ span.heimu a.external, span.heimu a.external:visited, span.heimu a.extiw, span.h
     <link href="https://blogs.s-w.top/posts/cl5ge7pvs0000pwvs7jnh8cjf/"/>
     <id>https://blogs.s-w.top/posts/cl5ge7pvs0000pwvs7jnh8cjf/</id>
     <published>2022-05-11T08:10:22.000Z</published>
-    <updated>2022-07-11T07:00:26.095Z</updated>
+    <updated>2022-07-11T07:06:08.389Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="访问次数统计API"><a href="#访问次数统计API" class="headerlink" title="访问次数统计API"></a>访问次数统计API</h2><blockquote><p>URL：<a href="https://mirrors.starworldstudio.tk/api/views/?id=%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99">https://mirrors.starworldstudio.tk/api/views/?id=你的网站</a><br>请求方法：GET<br>返回：JavaScript代码</p></blockquote><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//views_https://www.example.com/.data</span></span><br><span class="line"><span class="keyword">var</span> view_count = <span class="string">&quot;1&quot;</span>;</span><br></pre></td></tr></table></figure><blockquote><p>请不要投放无效统计项<br>注意：如果此API发生了400错误，请检查id参数，id参数必须是一个合法的URL，如<a href="https://www.example.com/">https://www.example.com/</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h2 id="访问次数统计API"><a href="#访问次数统计API" class="headerlink" title="访问次数统计API"></a>访问次数统计API</h2><blockquote><p>URL：<a href="https://mirrors.s-w.top/api/views/?id=%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99">https://mirrors.s-w.top/api/views/?id=你的网站</a><br>请求方法：GET<br>返回：JavaScript代码</p></blockquote><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//views_https://www.example.com/.data</span></span><br><span class="line"><span class="keyword">var</span> view_count = <span class="string">&quot;1&quot;</span>;</span><br></pre></td></tr></table></figure><blockquote><p>请不要投放无效统计项<br>注意：如果此API发生了400错误，请检查id参数，id参数必须是一个合法的URL，如<a href="https://www.example.com/">https://www.example.com/</a></p></blockquote>]]></content>
     
     
       
