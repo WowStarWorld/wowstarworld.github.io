@@ -3,11 +3,11 @@
   <title>StarWorld Blog</title>
   
   
-  <link href="https://blog.starworldstudio.tk/atom.xml" rel="self"/>
+  <link href="https://blogs.s-w.top/atom.xml" rel="self"/>
   
-  <link href="https://blog.starworldstudio.tk/"/>
-  <updated>2022-05-19T07:36:23.925Z</updated>
-  <id>https://blog.starworldstudio.tk/</id>
+  <link href="https://blogs.s-w.top/"/>
+  <updated>2022-07-11T06:44:55.701Z</updated>
+  <id>https://blogs.s-w.top/</id>
   
   <author>
     <name>StarWorld</name>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>StarWorldWebConsole —— 一款能在浏览器运行的终端</title>
-    <link href="https://blog.starworldstudio.tk/posts/cl3cp4ql80000xsvshpq33r7j/"/>
-    <id>https://blog.starworldstudio.tk/posts/cl3cp4ql80000xsvshpq33r7j/</id>
+    <link href="https://blogs.s-w.top/posts/cl3cp4ql80000xsvshpq33r7j/"/>
+    <id>https://blogs.s-w.top/posts/cl3cp4ql80000xsvshpq33r7j/</id>
     <published>2022-05-19T07:32:04.000Z</published>
-    <updated>2022-05-19T07:36:23.925Z</updated>
+    <updated>2022-07-11T06:44:55.701Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://console.starworldstudio.tk/">在线预览：https://console.starworldstudio.tk/</a></p><p><a href="https://github.com/WowStarWorld/WebConsole">Github仓库：https://github.com/WowStarWorld/WebConsole</a></p><img src="/posts/cl3cp4ql80000xsvshpq33r7j/preview.png" class="" title="概览">]]></content>
+    <content type="html"><![CDATA[<p><a href="https://console.s-w.top/">在线预览：https://console.s-w.top/</a></p><p><a href="https://github.com/WowStarWorld/WebConsole">Github仓库：https://github.com/WowStarWorld/WebConsole</a></p><img src="/posts/cl3cp4ql80000xsvshpq33r7j/preview.png" class="" title="概览">]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://console.starworldstudio.tk/&quot;&gt;在线预览：https://console.starworldstudio.tk/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/WowStarWorl</summary>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://console.s-w.top/&quot;&gt;在线预览：https://console.s-w.top/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/WowStarWorld/WebConsole&quot;&gt;Github仓库</summary>
       
     
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Python 打印目录树</title>
-    <link href="https://blog.starworldstudio.tk/posts/cl37zzg2q0000xgvs6ayj7rbg/"/>
-    <id>https://blog.starworldstudio.tk/posts/cl37zzg2q0000xgvs6ayj7rbg/</id>
+    <link href="https://blogs.s-w.top/posts/cl37zzg2q0000xgvs6ayj7rbg/"/>
+    <id>https://blogs.s-w.top/posts/cl37zzg2q0000xgvs6ayj7rbg/</id>
     <published>2022-05-16T00:30:52.000Z</published>
     <updated>2022-05-16T01:47:40.670Z</updated>
     
@@ -58,10 +58,10 @@ span.heimu a.external, span.heimu a.external:visited, span.heimu a.extiw, span.h
     
     
     
-    <category term="代码分享" scheme="https://blog.starworldstudio.tk/categories/%E4%BB%A3%E7%A0%81%E5%88%86%E4%BA%AB/"/>
+    <category term="代码分享" scheme="https://blogs.s-w.top/categories/%E4%BB%A3%E7%A0%81%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Python" scheme="https://blog.starworldstudio.tk/tags/Python/"/>
+    <category term="Python" scheme="https://blogs.s-w.top/tags/Python/"/>
     
   </entry>
   
