@@ -6,7 +6,7 @@
   <link href="https://blogs.s-w.top/atom.xml" rel="self"/>
   
   <link href="https://blogs.s-w.top/"/>
-  <updated>2022-07-11T06:44:55.701Z</updated>
+  <updated>2022-07-11T06:59:24.884Z</updated>
   <id>https://blogs.s-w.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blogs.s-w.top/posts/cl3cp4ql80000xsvshpq33r7j/"/>
     <id>https://blogs.s-w.top/posts/cl3cp4ql80000xsvshpq33r7j/</id>
     <published>2022-05-19T07:32:04.000Z</published>
-    <updated>2022-07-11T06:44:55.701Z</updated>
+    <updated>2022-07-11T06:59:24.884Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://console.s-w.top/">在线预览：https://console.s-w.top/</a></p><p><a href="https://github.com/WowStarWorld/WebConsole">Github仓库：https://github.com/WowStarWorld/WebConsole</a></p><img src="/posts/cl3cp4ql80000xsvshpq33r7j/preview.png" class="" title="概览">]]></content>
     
@@ -34,6 +34,10 @@
     
     
     
+    <category term="站点分享" scheme="https://blogs.s-w.top/categories/%E7%AB%99%E7%82%B9%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="HTML" scheme="https://blogs.s-w.top/tags/HTML/"/>
     
   </entry>
   
@@ -62,6 +66,55 @@ span.heimu a.external, span.heimu a.external:visited, span.heimu a.extiw, span.h
     
     
     <category term="Python" scheme="https://blogs.s-w.top/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>访问次数统计API</title>
+    <link href="https://blogs.s-w.top/posts/cl5ge7pvs0000pwvs7jnh8cjf/"/>
+    <id>https://blogs.s-w.top/posts/cl5ge7pvs0000pwvs7jnh8cjf/</id>
+    <published>2022-05-11T08:10:22.000Z</published>
+    <updated>2022-07-11T07:00:26.095Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="访问次数统计API"><a href="#访问次数统计API" class="headerlink" title="访问次数统计API"></a>访问次数统计API</h2><blockquote><p>URL：<a href="https://mirrors.starworldstudio.tk/api/views/?id=%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99">https://mirrors.starworldstudio.tk/api/views/?id=你的网站</a><br>请求方法：GET<br>返回：JavaScript代码</p></blockquote><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//views_https://www.example.com/.data</span></span><br><span class="line"><span class="keyword">var</span> view_count = <span class="string">&quot;1&quot;</span>;</span><br></pre></td></tr></table></figure><blockquote><p>请不要投放无效统计项<br>注意：如果此API发生了400错误，请检查id参数，id参数必须是一个合法的URL，如<a href="https://www.example.com/">https://www.example.com/</a></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;访问次数统计API&quot;&gt;&lt;a href=&quot;#访问次数统计API&quot; class=&quot;headerlink&quot; title=&quot;访问次数统计API&quot;&gt;&lt;/a&gt;访问次数统计API&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;URL：&lt;a href=&quot;https://mirrors.</summary>
+      
+    
+    
+    
+    <category term="接口分享" scheme="https://blogs.s-w.top/categories/%E6%8E%A5%E5%8F%A3%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="API" scheme="https://blogs.s-w.top/tags/API/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站运行时间计算代码</title>
+    <link href="https://blogs.s-w.top/posts/cl5ge7pvv0001pwvs52cha5i0/"/>
+    <id>https://blogs.s-w.top/posts/cl5ge7pvv0001pwvs52cha5i0/</id>
+    <published>2022-05-11T08:01:42.000Z</published>
+    <updated>2022-07-11T06:57:56.639Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="网站运行时间计算代码"><a href="#网站运行时间计算代码" class="headerlink" title="网站运行时间计算代码"></a>网站运行时间计算代码</h2><h4 id="HTML部分"><a href="#HTML部分" class="headerlink" title="HTML部分"></a>HTML部分</h4><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">span</span> <span class="attr">id</span>=<span class="string">&quot;timing&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">span</span>&gt;</span></span><br></pre></td></tr></table></figure><h4 id="JavaScript部分"><a href="#JavaScript部分" class="headerlink" title="JavaScript部分"></a>JavaScript部分</h4><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">runtime</span>(<span class="params"></span>)&#123;</span><br><span class="line">    X = <span class="keyword">new</span> <span class="title class_">Date</span>(<span class="string">&quot;建立日/建立月/建立年 建立时:建立分:建立秒&quot;</span>);</span><br><span class="line">    Y = <span class="keyword">new</span> <span class="title class_">Date</span>();</span><br><span class="line">    T = (Y.<span class="title function_">getTime</span>()-X.<span class="title function_">getTime</span>());</span><br><span class="line">    M = <span class="number">24</span>*<span class="number">60</span>*<span class="number">60</span>*<span class="number">1000</span>;</span><br><span class="line">    a = T/M;</span><br><span class="line">    A = <span class="title class_">Math</span>.<span class="title function_">floor</span>(a);</span><br><span class="line">    b = (a-A)*<span class="number">24</span>;</span><br><span class="line">    B = <span class="title class_">Math</span>.<span class="title function_">floor</span>(b);</span><br><span class="line">    c = (b-B)*<span class="number">60</span>;</span><br><span class="line">    C = <span class="title class_">Math</span>.<span class="title function_">floor</span>((b-B)*<span class="number">60</span>);</span><br><span class="line">    D = <span class="title class_">Math</span>.<span class="title function_">floor</span>((c-C)*<span class="number">60</span>);</span><br><span class="line">    timing.<span class="property">innerHTML</span> = <span class="string">&quot;本站已运行: &quot;</span>+A+<span class="string">&quot;天&quot;</span>+B+<span class="string">&quot;小时&quot;</span>+C+<span class="string">&quot;分&quot;</span>+D+<span class="string">&quot;秒&quot;</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">setInterval</span>(runtime, <span class="number">1000</span>);</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;网站运行时间计算代码&quot;&gt;&lt;a href=&quot;#网站运行时间计算代码&quot; class=&quot;headerlink&quot; title=&quot;网站运行时间计算代码&quot;&gt;&lt;/a&gt;网站运行时间计算代码&lt;/h2&gt;&lt;h4 id=&quot;HTML部分&quot;&gt;&lt;a href=&quot;#HTML部分&quot; class=&quot;</summary>
+      
+    
+    
+    
+    <category term="代码分享" scheme="https://blogs.s-w.top/categories/%E4%BB%A3%E7%A0%81%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="JavaScript" scheme="https://blogs.s-w.top/tags/JavaScript/"/>
     
   </entry>
   
